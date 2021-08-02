@@ -9,4 +9,4 @@ The code is commented and it has the following parts:
 - data preparation
 - RandomForest prediction test
 - SVM prediction test
-- MLP prediction test
+- MLP prediction test (with different network structures)
